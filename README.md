@@ -37,3 +37,29 @@ required by applicable law. 
 Use of this software does not authorize the practice of any patented methods 
 or systems, and any such use may require a separate license from the patent 
 Holder. 
+
+
+# rescueMinimizer
+
+<br>
+
+## Deployment instructions
+
+After cloning the repository unzip the files in the DATA and CONFIG subdirectories
+
+
+## The syntax to run script from RESCUEMIN directory : 
+
+With minimization option on :
+`python rescueminimization.py DATA CONFIG/rescueMinimization.unix.cfg <outfile>`
+
+With legacy approach of min coverage :
+`python rescueminimization.py DATA CONFIG/rescueMinimization.unix.cfg <outfile> --minimization 1`
+
+<br>
+
+Use example data file and roi to create new ones. Make sure that all positions in the roi are present in the coverage file.
+
+
+
+
