@@ -52,13 +52,9 @@ After cloning the repository unzip the files in the DATA and CONFIG subdirectori
 
 With minimization option :
 
-<br>
-
 `python rescueMinimization.py DATA CONFIG/rescueMinimization.unix.cfg <outfile>`
 
 With legacy approach of min coverage :
-
-<br>
 
 `python rescueMinimization.py DATA CONFIG/rescueMinimization.unix.cfg <outfile> --minimization 1`
 
