@@ -1,0 +1,13 @@
+Patent Notice 
+ 
+This software may relate to subject matter that is the subject of one or more 
+pending or issued patent applications owned by Labcorp or its 
+affiliates. 
+ 
+No express or implied license to any patents is granted by the distribution 
+of this software, including under the BSD 3-Clause License, except as may be 
+required by applicable law. 
+ 
+Use of this software does not authorize the practice of any patented methods 
+or systems, and any such use may require a separate license from the patent 
+holder. 
