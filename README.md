@@ -62,7 +62,7 @@ With legacy approach of min coverage :
 
 Use example data file and roi to create new ones. When doing so, make sure that all positions in the roi are present in the coverage file.
 
-To ensure rescues occur, use a low **maxEFN** value. This parameter can be configured either via the `--maxEFN <value>` command-line option or by editing `maxEFN` in `CONFIG/rescueMinimization.unix.cfg`.
+To ensure rescues occur for the example data, use a low **maxEFN** value. This parameter can be configured either via the `--maxEFN <value>` command-line option or by editing `maxEFN` in `CONFIG/rescueMinimization.unix.cfg`.
 
 
 
